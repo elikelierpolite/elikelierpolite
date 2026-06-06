@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ndivhuho Polite Sithole</h1>
-<h3 align="center">A passionate frontend developer from Johannesburg</h3>
+<h3 align="center">A passionate Fullstack developer from Johannesburg</h3>
 
 - 🔭 I’m currently working on AI Systems for [XReven AI](https://xrevenai.s2int.site/)
 
